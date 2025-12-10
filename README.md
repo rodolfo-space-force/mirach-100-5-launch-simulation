@@ -88,3 +88,11 @@ Observações Finais
 O Mirach 100/5 é um drone de alta performance usado para treinamento de defesa aérea, incluindo simulações de mísseis, testes de sensores e artilharia antiaérea. 
 Sua configuração com propulsão turbojato e boosters auxiliares oferece alto desempenho e versatilidade, sendo uma plataforma importante na simulação de ameaças em ambientes complexos.
 
+## 📄 Licença
+
+Este projeto está licenciado sob a **Licença MIT**.  
+Você pode usar, modificar e redistribuir este código livremente, **desde que mencione o autor original**.
+
+[Clique aqui para ver a licença completa.](LICENSE)
+
+
