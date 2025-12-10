@@ -6,7 +6,7 @@ Simulação física em Python do lançamento do drone-alvo italiano Mirach 100/5
 •	Categoria: Drone-alvo (target drone)
 •	Origem: Itália (ITA)
 ________________________________________
-
+![Texto alternativo da imagem](Mirach 100_5 V2 drone bersaglio.jpeg)
 ![Texto alternativo da imagem](grafico.png)
 
 
