@@ -7,6 +7,9 @@ Simulação física em Python do lançamento do drone-alvo italiano Mirach 100/5
 •	Origem: Itália (ITA)
 ________________________________________
 
+![Texto alternativo da imagem](grafico.png)
+
+
 2. Fabricantes e Período de Produção
 Período	Fabricante
 1998 – 2003	Meteor SpA Costruzioni Aeronautiche ed Elettroniche (Ronchi dei Legionari)
