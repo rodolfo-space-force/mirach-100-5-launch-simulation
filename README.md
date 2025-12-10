@@ -2,7 +2,7 @@
 
 Simulação física em Python do lançamento do drone-alvo italiano Mirach 100/5.
 1. Identificação Geral
-•	Nome: Meteor Mirach 100/5
+•	Nome: Mirach 100/5
 •	Categoria: Drone-alvo (target drone)
 •	Origem: Itália (ITA)
 ________________________________________
