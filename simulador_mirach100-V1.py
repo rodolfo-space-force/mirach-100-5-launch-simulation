@@ -44,3 +44,11 @@ if __name__ == "__main__":
     # Executar simulação com parâmetros padrão
     t, acc, vel, pos = simular_lancamento()
     plotar_resultados(t, acc, vel, pos, duracao_boosters=5)
+
+
+## Licença
+#Este projeto está licenciado sob a **Licença MIT**.  
+#Você pode usar, modificar e redistribuir este código livremente, **desde que mencione o autor original**.
+
+
+
