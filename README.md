@@ -1,5 +1,7 @@
 # Mirach-100/5-launch-simulation
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
+
 Simulação física em Python do lançamento do drone-alvo italiano Mirach 100/5.
 1. Identificação Geral
 •	Nome: Mirach 100/5
